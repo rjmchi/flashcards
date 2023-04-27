@@ -1,0 +1,260 @@
+Abrir, To open
+Aburrir, To be bored
+Acabar, To finish
+Adelgazar, To Lose Weight
+Admitir, To admit
+Agregar, To add
+Alquiar, To rent
+Amar, To love (a person or activity)
+Apagar, To turn off
+Aplandir, To applaud
+Aprender , To learn
+Arreglar, To Fix
+Asistir, To attend
+Ayudar , To help
+Bailar, To dance
+Bañar, To bathe or to shower
+Barrer, To sweep
+Beber, To drink
+Besar, To kiss
+Brincar, To jump
+Buscar, To look (for)
+Caminar, To walk
+Cantar, To sing
+Cenar, To have dinner
+Chocar, To crash
+Cocinar, To cook
+Colocar, To place
+Comenzar, To Begin
+Comer, To eat
+Compartir, To share
+Romper, To break
+Comprar, To buy
+Comprender, To understand
+Conducer, To drive
+Contestar, To respond
+Correr, To run
+Coser, To sew
+Crecer, To Grow
+Creer, To believe
+Deber, Should or to owe
+Decidir, To decide
+Desayunar, To eat breakfast
+Destruir, To Destroy
+Discutir, To argue
+Disfrutar, to enjoy
+Elegir, To choose
+Encantar, To love (an object or place)
+Engordar, To gain weight
+Enseñar, To teach
+Entender, To understand
+Entregar, To deliver
+Enviar, To Send
+Escoger, To choose
+Escriber, To write
+Esperar, To wait
+Estudiar, To study
+Exponer, To expose
+Fumar, To smoke
+Gastar, To spend
+Invitar, To invite
+Jugar, To play
+Lavar, To wash
+Leer, To read
+Limpiar, To clean
+Llegar, To arrive or to come
+LLenar, To Fill Up
+Llevar, To carry or to take (with you) or to wear or to drive someone
+Mandar, To send
+Manejar, To drive (a car)
+Mantener, To Maintain
+Mejorar, To improve
+Meter, To put or place in
+Nadar, To swim
+Necesitar, To need
+Negar, To deny
+Ofrecer, To offer
+Pasar, To pass by
+Pedir, To Ask For
+Pegar, To glue
+Perder, To lose
+Permitir, To Permit
+Platicar, To chat
+Poner, To Put
+Prender, To turn on
+Preparar, To Prepare
+Proteger, To protect
+Recibir, To receive
+Recoger, To pick up
+Regresar, To return
+Resolver, To resolve
+Responder, To respond
+Revisar, To check
+Romper, To break
+Sacar, To Take out
+Sacudir, To dust
+Saltar, To jump
+Subir, To go up
+Tejer, To knit
+Tirar, To Throw
+Tocar, To touch or to play an instrument
+Tomar, To take or to drink
+Trabajar, To work
+Traer, To bring
+Usar, To use
+Vaciar, To Empty
+Vender, To sell
+Venir, To come
+Visitar, To visit
+Vivir, To live
+Acostar, To lay down
+Almorzar, To have breakfast
+Calentar, To Heat Up
+Cerrar, To close
+Comenzar, To begin 
+Conocer, To know or to meet
+Dar, To Give
+Devolver, To return an object
+Decir, To tell or to say 
+Dormir, To sleep 
+Empezar, To start or begin 
+Estar, To be
+Hacer, To do or to make
+Ir, To go
+Mentir, To tell a lie 
+Morir, To die 
+Mover, To Move 
+Oir, To hear
+Oler, To smell
+Pedir, To ask for 
+Pensar, To think 
+Poder, To be able to 
+Querer, To want 
+Saber, To know
+Salir, To leave
+Seguir, To follow 
+Ser, To Be
+Soñar, To Dream 
+Sugerir, To Suggest 
+Temblar, To tremble with fear 
+Tenir, To have
+Volar, To fly 
+Volver, To return 
+Aburrirse, To bore
+Acostarse, To go to bed or lie down 
+Afeitarse, To Shave
+Alegrarse, To be happy or have joy
+Asolearse, To sunbathe
+Bañarse, To Bathe or Shower
+Broncearse, To Sunbathe
+Cansarse, To get tired
+Carsarse, To get married
+Cepillarse, To brush
+Confundirse, To be confused
+Consentirse, To be spoiled or pampered
+Depilarse, To Wax
+Despertarse, To Wake Up 
+Desvestirse, To Undress
+Divertirse, To have fun
+Dormirse, To Sleep 
+Enfermarse, To get sick
+Estirarse, To Stretch
+Irse, To Leave
+Lavarse, To wash
+Levantarse, To Get Up
+Llamarse, To Call
+Maquillarse, To put on makeup
+Peinarse, To comb
+Ponerse, To put on (1st person Pongo)
+Preocuparse, To worry
+Quitarse, To take off or Remove
+Rasurarse, To Shave
+Reirse, To Laugh 
+Secarse, To Dry Off
+Tranquilizarse, To be calm
+Vestirse, To Dress 
+La acción, Action
+La Alberca, Pool or pool area
+El Ano, Anus
+El Año, year
+El Atardecer, Sunset
+El/La Azteca, Native Mexican
+El Chango, Monkey
+El Chícharo, Pea
+El cine, Movie theater
+la Canción, Song
+La Construcción, Construction
+La Copa, Cup or glass
+La Copia, copy
+La Copita, Shot glass
+El Correo, Mail
+Los Correos electronicos, e-mail
+El Cuaderno, notebook
+El cuanderno, Notebook
+La Cubeta, Bucket
+La Cuchara, Spoon
+El Cuchillo, Knife
+El Departmento, Apartment
+El Diputado, Deputy
+El Dueño, Owner
+El Estadio, Stadium
+El Guisante, Pea
+El hielo, Ice
+La Iglesia, Church
+El invierno, Winter
+La Luz, Light
+El Muchacho, Boy
+La Muchacha, Girl
+El Mueble, Furniture
+El Novio, Boy friend
+La Novia, Girlfriend
+El Otoño, autumn
+La Palabra, Word
+la parilla, Gas grill
+La película, Movie
+El Permiso, Permit or permission
+El pizarrón, Black board
+La Pluma, Pen
+La Primavera, Spring
+El Primo, Cousin
+La Prima, Cousin
+La Puesta del sol, Sunset
+La Sobrina, Niece
+El Sobrino, Nephew
+El Suéter, Sweater
+la taza, Cup or bowl
+El Teatro, Theater
+La Tema, Topic
+El Tenador, Fork
+la vaca, Cow
+El Vegetal, vegetable
+El Verano, Summer
+La Verdura, Vegetable
+El Vestido, Dress
+cada, every
+caliente, hot
+cerca de, near
+delgado, thin
+enfermo, sick
+enojados, angry
+gordo, fat
+lleno, full
+mejor, better
+preocupado, worry
+siempre, always
+sucio, dirty
+tranquilo, calm
+vacio, empty
+ocupado, busy
+hace calor, it is hot
+la puesta del sol, sunset
+por eso, that's why
+anoche, last night
+la barba, beard
+casi, almost
+sobre, above
+debajo de, under
+lejos de, far from
+contra, against
+antes de, before
+delante de, in front of
